@@ -1,0 +1,6 @@
+google-generativeai
+seaborn
+matplotlib
+plotly
+openyxl
+pandas
