@@ -9,7 +9,7 @@ import plotly.express as px
 st.set_page_config(page_title="AI CSV Data Analyst", layout="wide")
 
 # Initialize Gemini API (Replace with your API Key)
-GEMINI_API_KEY = "AIzaSyBZ92WbBwz0pWqHPjjT2lqGrwlAfM91Rds"
+GEMINI_API_KEY = "api-key"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Create two columns (70:30 split)
